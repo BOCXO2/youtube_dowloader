@@ -85,7 +85,7 @@ pip install -r requirements.txt</code>
 <h2 id="лицензия">📜 Лицензия</h2>
 <p>
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License">
+    <img src="https://github.com/BOCXO2" alt="MIT License">
   </a>
 </p>
 
